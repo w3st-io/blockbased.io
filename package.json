@@ -11,7 +11,7 @@
   "author": "aleem ahmed",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.2",
     "coinbase-pro": "^0.9.0",
